@@ -1,3 +1,3 @@
-# Privacy Masters — redesign Aurora
+# Privacy Masters — redesign Otaniel Julio
 Sito statico multipagina (index, chi-siamo, servizi, perche-proteggersi, blog, contatti). CSS/JS in assets/.
 GitHub Pages: Settings → Pages → main / root.
