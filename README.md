@@ -1,3 +1,3 @@
-# Privacy Masters — tema otanieljulio
-Redesign multipágina de privacymasters.it: index, chi-siamo, servizi, perche-proteggersi, blog, contatti.
-Online: https://otanieljulio.github.io/privacymasters-redesign/
+# Privacy Masters — redesign Aurora
+Sito statico multipagina (index, chi-siamo, servizi, perche-proteggersi, blog, contatti). CSS/JS in assets/.
+GitHub Pages: Settings → Pages → main / root.
